@@ -152,7 +152,7 @@
             //IsPositive(0);
             //CanVote();
             //IsInRange();
-            //MultiplyThroughTwelve(10);
+            MultiplyThroughTwelve(10);
         }
     }
 }
